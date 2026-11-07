@@ -1,3 +1,3 @@
 
-   ![My tech stack](assets/progress.sv)
+   ![My tech stack](assets/progress.svg)
  
