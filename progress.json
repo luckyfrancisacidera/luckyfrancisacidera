@@ -1,0 +1,38 @@
+[
+  {
+    "name": "React",
+    "level": "frontend"
+  },
+  {
+    "name": "TypeScript",
+    "level": "frontend"
+  },
+  {
+    "name": "Angular",
+    "level": "frontend"
+  },
+  {
+    "name": ".NET",
+    "level": "backend"
+  },
+  {
+    "name": "C#",
+    "level": "backend"
+  },
+  {
+    "name": "PostgreSQL",
+    "level": "backend"
+  },
+  {
+    "name": "MSSQL",
+    "level": "backend"
+  },
+  {
+    "name": "Docker",
+    "level": "backend"
+  },
+  {
+    "name": "Azure",
+    "level": "backend"
+  }
+]
