@@ -186,7 +186,7 @@ function pixelWord(word, x0, y0, cell) {
 
   <g transform="translate(${OUT},${OUT})">
     <rect class="card" width="${CW}" height="${CH1}" rx="16" filter="url(#soft)"/>
-    <text class="label" x="${PAD}" y="${26 + 10}">1ST YEAR COMSCI STUDENT — UP BAGUIO</text>
+    <text class="label" x="${PAD}" y="${26 + 10}">4TH YEAR BSCS — MMSU COMPUTER SCIENCE</text>
     ${title.svg}
 ${card1}
     <line class="hair" x1="${PAD}" y1="${foot1}" x2="${CW - PAD}" y2="${foot1}"/>
